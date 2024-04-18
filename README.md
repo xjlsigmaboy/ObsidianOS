@@ -1,4 +1,4 @@
-# ObsidianOS
+<center> # ObsidianOS </center>
 ObsidianOS is an Arch-based Linux distribution that focuses on privacy, security and ease of use. <br>
 
 Built on Arch - Leverages the power and flexibility of Arch Linux. <br>
