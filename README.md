@@ -5,14 +5,15 @@ Built on Arch - Leverages the power and flexibility of Arch Linux. <br>
 Security & Privacy - Provides a distro optimized for security & privacy. <br>
 Active development - We are constantly working to improve ObsidianOS. <br>
 
-# Getting Started
-ObsidianOS download links: <br>
-(Link 1) <br>
-(Link 2) <br>
-(Link 3) <br>
+## Getting Started
+### Stable Version
+Unavailable!
 
-# Join Beta
-You can join discord to get ObsidianOS Beta Version.
+### Beta Version
+Unavailable!
+
+### Join Testing
+You can try our testing branch versions by joining our Discord.
 
 # Join the community! 
 Discord:(Link) <br>
