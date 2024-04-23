@@ -17,7 +17,8 @@ Unavailable!
 You can contribute to ObsidianOS development or testing by applying <a href="https://forms.gle/7x8AasYzPBUu8FtX8">Here</a>.
 
 # Join the community! 
-Discord:(Link) <br>
-Facebook: https://www.facebook.com/profile.php?id=61555372363814 <br>
-X: https://twitter.com/ObsidianDT <br>
-Youtube: https://www.youtube.com/ObsidianDT <br>
+<a href="https://www.facebook.com/profile.php?id=61555372363814">Facebook</a>,
+<br>
+<a href="https://twitter.com/ObsidianDT">X</a>,
+<br>
+<a href="https://www.youtube.com/ObsidianDT">Youtube</a>
