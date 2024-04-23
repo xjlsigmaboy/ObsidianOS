@@ -13,7 +13,7 @@ Unavailable!
 ### Beta Version
 Unavailable!
 
-### Contributing
+## Contributing
 You can contribute to ObsidianOS development or testing by applying <a href="https://forms.gle/7x8AasYzPBUu8FtX8">Here</a>.
 
 # Join the community! 
