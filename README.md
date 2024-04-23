@@ -13,8 +13,8 @@ Unavailable!
 ### Beta Version
 Unavailable!
 
-### Join Testing
-You can try our testing branch versions by joining our Discord.
+### Contributing
+You can contribute to ObsidianOS development or testing by applying <a href="https://forms.gle/7x8AasYzPBUu8FtX8">Here</a>.
 
 # Join the community! 
 Discord:(Link) <br>
