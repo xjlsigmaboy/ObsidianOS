@@ -8,6 +8,7 @@ Active development - We are constantly working to improve ObsidianOS. <br>
 
 ## Getting Started
 ### Stable Version
+user: live , password: live
 Unavailable!
 
 ### Beta Version
