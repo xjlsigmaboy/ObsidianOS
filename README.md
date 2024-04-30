@@ -8,11 +8,13 @@ Active development - We are constantly working to improve ObsidianOS. <br>
 
 ## Getting Started
 ### Stable Version
-user: live , password: live <br>
+
 Unavailable!
 
 ### Beta Version
-Unavailable!
+user: live , password: live <br>
+
+V1 Beta will be available after few days.
 
 ## Contributing
 You can contribute to ObsidianOS development or testing by applying <a href="https://forms.gle/7x8AasYzPBUu8FtX8">Here</a>.
