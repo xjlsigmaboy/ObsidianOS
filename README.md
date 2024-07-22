@@ -16,6 +16,9 @@ user: live , password: live <br>
 
 V1 Beta will be available after few days.
 
+### Testing
+Soon;)
+
 ## Contributing
 You can contribute to ObsidianOS development or testing by applying <a href="https://forms.gle/7x8AasYzPBUu8FtX8">Here</a>.
 
