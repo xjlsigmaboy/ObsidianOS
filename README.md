@@ -27,4 +27,4 @@ You can contribute to ObsidianOS development or testing by applying <a href="htt
 <br>
 <a href="https://twitter.com/ObsidianDT">X</a>,
 <br>
-<a href="https://www.youtube.com/ObsidianDT">Youtube</a>
+<a href="https://youtube.com/@obsidiandt?si=OvrG7wL7yQzaQTna">">Youtube</a>
