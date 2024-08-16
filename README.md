@@ -22,9 +22,6 @@ Soon;)
 ### Source Code
 You can check ISO profile <a href="https://github.com/xjlsigmaboy/ObsidianOS-iso">Here</a>.
 
-## Contributing
-You can contribute to ObsidianOS development or testing by applying <a href="https://forms.gle/7x8AasYzPBUu8FtX8">Here</a>.
-
 # Join the community! 
 <a href="https://www.facebook.com/profile.php?id=61555372363814">Facebook</a>,
 <br>
