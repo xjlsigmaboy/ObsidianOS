@@ -8,17 +8,10 @@ Active development - We are constantly working to improve ObsidianOS. <br>
 
 ## Getting Started
 ### Stable Version
-
-Unavailable!
-
-### Beta Version
-user: live , password: live <br>
-
-V1 Beta will be available after few days.
+Unavailable :(
 
 ### Testing
-Soon;)
-
+Subscribe to project <a href="https://t.me/obsidiandt">telegram channel</a> and try daily ISOs!
 ### Source Code
 You can check ISO profile <a href="https://github.com/xjlsigmaboy/ObsidianOS-iso">Here</a>.
 
