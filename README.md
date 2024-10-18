@@ -1,10 +1,10 @@
 # ObsidianOS
-ObsidianOS is an Arch-based Linux distribution that focuses on privacy, security, stability, and ease of use. <br>
+ObsidianOS is an Arch-based Linux distribution that built to introduce the best experience with Obsidian custom Linux kernel.<br>
 
 Built on Arch - Leverages the power and flexibility of Arch Linux. <br>
-Stable rolling - Provides the latest packages with more stability. <br>
-Security & Privacy - Provides a distro optimized for security & privacy. <br>
-Active development - We are constantly working to improve ObsidianOS. <br>
+Better performance - ObsidianOS kernel has a better response time and less bloat that default Arch Linux kernel.<br> 
+Security & Privacy - In spite of focusing on performance, Obsidian Linux kernel provide a better security. <br>
+Active development - We are constantly working to improve Obsidian . <br>
 
 ## Getting Started
 ### Stable Version
